@@ -83,13 +83,10 @@ pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and create a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions or feedback, please reach out to [your-email@example.com].
+For questions or feedback, please reach out to jafarsadiqe.2001@gmail.com.
 
 ---
 
